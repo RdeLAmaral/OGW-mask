@@ -2,6 +2,7 @@
 
  function[Mask,M]=OGW_mask(Im,bits,s,sigma,nG,nW,p)
 
+% Methodology developed by "A NOVEL METHOD BASED ON THE OTSU THRESHOLD FOR INSTANTANEOUS ELIMINATION OF LIGHT REFLECTION IN PIV IMAGES" 
 % In:
 %     Im - Raw image
 %     bits - Image depth (8-16 bits); 
