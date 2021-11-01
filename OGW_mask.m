@@ -10,7 +10,7 @@
 %     nW - Wiener filter neighborhood size (11 px by default);
 %     p -  Constant used for a simple thresholding in the final step (0<p<1,
 %     0.5 px by default);
-%     s - 
+%     s - Otsu's weighting parameter (1 by default);
 % Out:
 %     Mask - Estimated mask in image format (uint8);
 %     M - Estimated matrix mask with double precision.
