@@ -1,0 +1,14 @@
+ 
+
+Data set and results investigated and presented by "A NOVEL METHOD BASED ON THE OTSU THRESHOLD FOR INSTANTANEOUS ELIMINATION OF LIGHT REFLECTION IN PIV IMAGES"
+
+------------------------------------------------------------------------------------------------------------
+
+Section 3 - Numerical Assessment:	https://1drv.ms/u/s!Ahq9m24xcJdWgZTOemELQiE2LsRdqng?e=FhuRaq
+Section 4 - Limitations:		https://1drv.ms/u/s!Ahq9m24xcJdWgZTOfvTf3DqKq5SNGOk?e=0wLT6b
+Section 5 - Experimental Case:		https://1drv.ms/u/s!Ahq9m24xcJdWgZTPAdMZlWLtYsgS17E?e=Hi34NE
+
+Raw images of the PIV challenge ----------------------------------------------------------------------------
+
+Section 5.1: 			https://www.pivchallenge.org/pivchallenge4.html
+Section 5.2: 			https://www.pivchallenge.org/pub/index.html#c 
